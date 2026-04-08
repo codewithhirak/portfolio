@@ -1,5 +1,5 @@
 import React from "react";
-import { Menu, X } from "lucide-react";
+import { Menu } from "lucide-react";
 interface NavLink {
   title: string;
   id: string;
