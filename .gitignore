@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Optional npm cache directory
+.npm
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
